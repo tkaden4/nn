@@ -1,0 +1,10 @@
+{
+  "name": "nn",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "Kaden Thomas <thomas.kaden4@outlook.com>",
+  "license": "MIT",
+  "devDependencies": {
+    "typescript": "^4.6.0-dev.20220123"
+  }
+}
